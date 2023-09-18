@@ -73,9 +73,11 @@ cd cd0157-Server-Deployment-and-Containerization/
 └── trust.json     #ToDo 
 ```
 ## ENV FILE CONTENT
+```bash
 JWT_SECRET='myjwtsecret'
 LOG_LEVEL=DEBUG
-     
+```
+
 ## Project Steps
 
 Completing the project involves several steps:
